@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
