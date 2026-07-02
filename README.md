@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shrivastavr45-lab/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
