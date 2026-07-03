@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int ans=0;
         int sum=0;
         for(int num:nums){
             sum+=num;
@@ -9,14 +8,14 @@ public:
         if(sum%2!=0){
             return false;
         }
-        int target=sum/2;
-        vector<int>dp(target+1,false);
+        int result=sum/2;
+        vector<int>dp(result+1,false);
         dp[0]=true;
         for(int num:nums){
-            for(int i=target;i>=num;i--){
+            for(int i=result;i>=num;i--){
                 dp[i]=dp[i]||dp[i-num];
             }
         }
-        return dp[target];
+        return dp[result];
     }
 };
