@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 ## Design
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shrivastavr45-lab/leetcode/tree/master/0055-jump-game) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/shrivastavr45-lab/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
