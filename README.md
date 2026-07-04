@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 ## Design
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/shrivastavr45-lab/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shrivastavr45-lab/leetcode/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
