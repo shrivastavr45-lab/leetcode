@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shrivastavr45-lab/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shrivastavr45-lab/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shrivastavr45-lab/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/shrivastavr45-lab/leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/shrivastavr45-lab/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/shrivastavr45-lab/leetcode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/shrivastavr45-lab/leetcode/tree/master/0131-palindrome-partitioning) |
