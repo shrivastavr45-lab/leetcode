@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shrivastavr45-lab/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2785-sort-vowels-in-a-string](https://github.com/shrivastavr45-lab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2785-sort-vowels-in-a-string](https://github.com/shrivastavr45-lab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
