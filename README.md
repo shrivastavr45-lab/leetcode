@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shrivastavr45-lab/leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/shrivastavr45-lab/leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0368-largest-divisible-subset) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |
