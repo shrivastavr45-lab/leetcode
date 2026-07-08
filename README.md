@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/shrivastavr45-lab/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shrivastavr45-lab/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0137-single-number-ii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1109-corporate-flight-bookings](https://github.com/shrivastavr45-lab/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bucket Sort
 |  |
