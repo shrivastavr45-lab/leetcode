@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0045-jump-game-ii) |
