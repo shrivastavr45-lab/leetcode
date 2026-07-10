@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shrivastavr45-lab/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2785-sort-vowels-in-a-string](https://github.com/shrivastavr45-lab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shrivastavr45-lab/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0137-single-number-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -262,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrivastavr45-lab/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
