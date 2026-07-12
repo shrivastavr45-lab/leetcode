@@ -3,17 +3,17 @@ public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         vector<int>sorted=arr;
         sort(sorted.begin(),sorted.end());
-        unordered_map<int,int>rank;
         int r=1;
+        unordered_map<int,int>mp;
         for(int x:sorted){
-            if(rank.find(x)==rank.end()){
-                rank[x]=r++;
+            if(mp.find(x)==mp.end()){
+                mp[x]=r++;
             }
         }
-        vector<int>ans;
+        vector<int>result;
         for(int x:arr){
-            ans.push_back(rank[x]);
+            result.push_back(mp[x]);
         }
-        return ans;
+        return result;
     }
 };
