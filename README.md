@@ -358,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shrivastavr45-lab/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
