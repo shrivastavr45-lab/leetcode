@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrivastavr45-lab/leetcode/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
