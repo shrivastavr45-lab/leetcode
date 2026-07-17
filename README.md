@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrivastavr45-lab/leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/shrivastavr45-lab/leetcode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -389,10 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shrivastavr45-lab/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shrivastavr45-lab/leetcode/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
