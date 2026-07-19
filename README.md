@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shrivastavr45-lab/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2785-sort-vowels-in-a-string](https://github.com/shrivastavr45-lab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -404,11 +406,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrivastavr45-lab/leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shrivastavr45-lab/leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
