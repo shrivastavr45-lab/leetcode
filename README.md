@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/shrivastavr45-lab/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1260-shift-2d-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/shrivastavr45-lab/leetcode/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrivastavr45-lab/leetcode/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -428,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shrivastavr45-lab/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
