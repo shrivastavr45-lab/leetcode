@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/shrivastavr45-lab/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0518-coin-change-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/shrivastavr45-lab/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0518-coin-change-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/shrivastavr45-lab/leetcode/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shrivastavr45-lab/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/shrivastavr45-lab/leetcode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -475,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shrivastavr45-lab/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shrivastavr45-lab/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
