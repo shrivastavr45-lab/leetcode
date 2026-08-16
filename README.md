@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shrivastavr45-lab/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shrivastavr45-lab/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrivastavr45-lab/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shrivastavr45-lab/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shrivastavr45-lab/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/shrivastavr45-lab/leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrivastavr45-lab/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrivastavr45-lab/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shrivastavr45-lab/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shrivastavr45-lab/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -536,22 +540,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrivastavr45-lab/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrivastavr45-lab/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shrivastavr45-lab/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shrivastavr45-lab/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
