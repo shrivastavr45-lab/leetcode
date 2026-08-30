@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shrivastavr45-lab/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shrivastavr45-lab/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shrivastavr45-lab/leetcode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/shrivastavr45-lab/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/shrivastavr45-lab/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/shrivastavr45-lab/leetcode/tree/master/2029-stone-game-ix) |
