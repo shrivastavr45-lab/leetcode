@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0705-design-hashset) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shrivastavr45-lab/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Function
 |  |
 | ------- |
