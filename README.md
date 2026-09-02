@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrivastavr45-lab/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shrivastavr45-lab/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/shrivastavr45-lab/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0140-word-break-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shrivastavr45-lab/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shrivastavr45-lab/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/shrivastavr45-lab/leetcode/tree/master/0221-maximal-square) |
