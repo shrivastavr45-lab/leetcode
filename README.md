@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shrivastavr45-lab/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/shrivastavr45-lab/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shrivastavr45-lab/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/shrivastavr45-lab/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shrivastavr45-lab/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/shrivastavr45-lab/leetcode/tree/master/0279-perfect-squares) |
