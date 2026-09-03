@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/shrivastavr45-lab/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shrivastavr45-lab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/shrivastavr45-lab/leetcode/tree/master/0190-reverse-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/shrivastavr45-lab/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shrivastavr45-lab/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
