@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/shrivastavr45-lab/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/shrivastavr45-lab/leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/shrivastavr45-lab/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/shrivastavr45-lab/leetcode/tree/master/0763-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
