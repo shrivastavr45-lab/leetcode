@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrivastavr45-lab/leetcode/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrivastavr45-lab/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shrivastavr45-lab/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shrivastavr45-lab/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shrivastavr45-lab/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -570,10 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrivastavr45-lab/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrivastavr45-lab/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
