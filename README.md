@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shrivastavr45-lab/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/shrivastavr45-lab/leetcode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shrivastavr45-lab/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shrivastavr45-lab/leetcode/tree/master/0322-coin-change) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/shrivastavr45-lab/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/shrivastavr45-lab/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shrivastavr45-lab/leetcode/tree/master/0621-task-scheduler) |
@@ -736,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
