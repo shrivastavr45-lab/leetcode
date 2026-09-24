@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shrivastavr45-lab/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shrivastavr45-lab/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/shrivastavr45-lab/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shrivastavr45-lab/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0090-subsets-ii) |
@@ -744,4 +747,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
