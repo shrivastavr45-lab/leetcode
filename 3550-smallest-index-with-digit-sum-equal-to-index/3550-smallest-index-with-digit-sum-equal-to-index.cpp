@@ -13,9 +13,6 @@ public:
             if(i==sum(nums[i])){
                 return i;
             }
-            else{
-                continue;
-            }
         }
         return -1;
 
