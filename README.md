@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shrivastavr45-lab/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/shrivastavr45-lab/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/shrivastavr45-lab/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shrivastavr45-lab/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shrivastavr45-lab/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivastavr45-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shrivastavr45-lab/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shrivastavr45-lab/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/shrivastavr45-lab/leetcode/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1004-max-consecutive-ones-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/shrivastavr45-lab/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
