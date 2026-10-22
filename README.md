@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0705-design-hashset) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shrivastavr45-lab/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/shrivastavr45-lab/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0229-majority-element-ii) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/shrivastavr45-lab/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -898,4 +901,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrivastavr45-lab/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
