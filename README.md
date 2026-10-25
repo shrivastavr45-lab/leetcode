@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrivastavr45-lab/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shrivastavr45-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shrivastavr45-lab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shrivastavr45-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/shrivastavr45-lab/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0040-combination-sum-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shrivastavr45-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shrivastavr45-lab/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
