@@ -5,13 +5,13 @@ public:
         int longest=0;
         for(int num:st){
             if(st.find(num-1)==st.end()){
-                int lenght=1;
+                int length=1;
                 int current=num;
                 while(st.find(current+1)!=st.end()){
-                    lenght++;
+                    length++;
                     current++;
                 }
-                longest=max(longest,lenght);
+                longest=max(longest,length);
             }
         }
         return longest;
