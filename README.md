@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shrivastavr45-lab/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shrivastavr45-lab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shrivastavr45-lab/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/shrivastavr45-lab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/shrivastavr45-lab/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0556-next-greater-element-iii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shrivastavr45-lab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shrivastavr45-lab/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/shrivastavr45-lab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shrivastavr45-lab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shrivastavr45-lab/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shrivastavr45-lab/leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/shrivastavr45-lab/leetcode/tree/master/0355-design-twitter) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shrivastavr45-lab/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shrivastavr45-lab/leetcode/tree/master/0202-happy-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
