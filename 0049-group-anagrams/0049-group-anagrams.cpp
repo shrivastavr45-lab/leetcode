@@ -7,7 +7,7 @@ public:
             sort(key.begin(),key.end());
             mp[key].push_back(s);
         }
-        vector<vector<string>>result;
+        vector<vector<string>> result;
         for(auto &it:mp){
             result.push_back(it.second);
         }
