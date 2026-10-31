@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shrivastavr45-lab/leetcode/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrivastavr45-lab/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/shrivastavr45-lab/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shrivastavr45-lab/leetcode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/shrivastavr45-lab/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrivastavr45-lab/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrivastavr45-lab/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/shrivastavr45-lab/leetcode/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrivastavr45-lab/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrivastavr45-lab/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
@@ -992,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shrivastavr45-lab/leetcode/tree/master/0139-word-break) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
