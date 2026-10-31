@@ -13,7 +13,6 @@ public:
                 tank=0;
                 start=i+1;
             }
-
         }
         return (total>=0)?start:-1;
     }
