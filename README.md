@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/shrivastavr45-lab/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shrivastavr45-lab/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shrivastavr45-lab/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shrivastavr45-lab/leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shrivastavr45-lab/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shrivastavr45-lab/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shrivastavr45-lab/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -970,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/shrivastavr45-lab/leetcode/tree/master/0705-design-hashset) |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -1058,4 +1062,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shrivastavr45-lab/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/shrivastavr45-lab/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
